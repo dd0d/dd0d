@@ -1,5 +1,5 @@
-<h1 align="center">[Hi 👋, I'm Dxtr ](https://github.com/images/mona-whisper.gif)</h1>
-<h3 align="center">A developer from Saudi arabia</h3>
+<h1 align="center">Welcome To My Profile 👋, I'm Dxtr </h1>
+<h3 align="center">im A developer from Saudi Arabia</h3>
 
 <p align="left"> <a href="https://twitter.com/vjs5" target="blank"><img src="https://img.shields.io/twitter/follow/vjs5?logo=twitter&style=for-the-badge" alt="vjs5" /></a> </p>
 
