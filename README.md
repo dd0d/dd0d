@@ -4,12 +4,12 @@
 
 - 🌱 I’m currently learning **Sql, C#**
 
-- 📫 How to reach me **My Discord ufn0#0 , My Twitter vjs5**
+- 📫 How to reach me **My Discord outdata#0 , My Twitter vjs5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vjs5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vjs5" height="30" width="40" /></a>
-<a href="https://discord.gg/287zWkWm2Z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="287zWkWm2Z" height="30" width="40" /></a>
+<a href="https://discord.gg/nnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="287zWkWm2Z" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
