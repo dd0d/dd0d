@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋 Hi there, I'm Hmoode!
+### 👋 Hi there, I'm Hex!
 
 <p>
 Welcome to my personal space on the web.  
@@ -11,7 +11,7 @@ and analyzing malicious software.
 
 ### ✨ A little more about me...
 ```javascript
-const hmoode = {
+const Hex = {
   passions: [
     "Cyber Security",
     "Bug Bounty",
