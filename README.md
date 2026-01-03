@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋 Hi there, I'm Hex!
+### 👋 Hi there, I'm Retch!
 
 <p>
 Welcome to my personal space on the web.  
@@ -11,7 +11,7 @@ and analyzing malicious software.
 
 ### ✨ A little more about me...
 ```javascript
-const Hex = {
+const Retch = {
   passions: [
     "Cyber Security",
     "Bug Bounty",
