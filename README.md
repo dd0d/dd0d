@@ -1,39 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Retch&fontSize=48&fontColor=ffffff&desc=Programmer%20|%20Security%20Analyst&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=210&section=header&text=Retch&fontSize=50&fontColor=ffffff&desc=Programmer%20%7C%20Security%20Analyst&descAlignY=65"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Cyber+Security+Enthusiast;Malware+Analysis+%26+Reverse+Engineering;Bug+Bounty+Hunter;Secure+Software+Developer"/>
 </p>
 
 <div align="center">
 
-### 👋 Hi there, I'm Retch
-
 Welcome to my personal space on the web.  
-I’m a **Programmer** and **Security Analyst** with a strong focus on building  
-**desktop applications** and analyzing **malicious software**.
+I’m a **Programmer** and **Security Analyst** focused on building **secure desktop software**  
+and performing **deep malware analysis & vulnerability research**.
 
 </div>
 
 ---
 
-## ✨ A little more about me
+## 🧠 About Me
 
 ```javascript
 const Retch = {
   role: "Programmer & Security Analyst",
-  passions: [
-    "Cyber Security",
-    "Bug Bounty",
-    "Website Development",
-    "Malware Analysis"
+  focus: [
+    "Offensive Security",
+    "Malware Analysis",
+    "Reverse Engineering",
+    "Secure Software Development"
   ],
-  code: [
+  languages: [
     "Java",
     "Python",
     "Go",
     "C#",
     "JavaScript"
   ],
-  dailyTasks: {
-    day: "Engineering functional and secure applications",
-    night: "Hunting vulnerabilities and dissecting malware behavior"
+  workflow: {
+    day: "Designing and engineering secure applications",
+    night: "Breaking software, hunting bugs, and dissecting malware"
   }
 };
