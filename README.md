@@ -1,21 +1,29 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Retch&fontSize=48&fontColor=ffffff&desc=Programmer%20|%20Security%20Analyst&descAlignY=65"/>
+</p>
+
 <div align="center">
 
-### 👋 Hi there, I'm Retch!
+### 👋 Hi there, I'm Retch
 
-<p>
 Welcome to my personal space on the web.  
-I’m a programmer and security analyst with a strong focus on building desktop applications  
-and analyzing malicious software.
-</p>
+I’m a **Programmer** and **Security Analyst** with a strong focus on building  
+**desktop applications** and analyzing **malicious software**.
+
 </div>
 
-### ✨ A little more about me...
+---
+
+## ✨ A little more about me
+
 ```javascript
 const Retch = {
+  role: "Programmer & Security Analyst",
   passions: [
     "Cyber Security",
     "Bug Bounty",
-    "Website Development"
+    "Website Development",
+    "Malware Analysis"
   ],
   code: [
     "Java",
@@ -28,10 +36,4 @@ const Retch = {
     day: "Engineering functional and secure applications",
     night: "Hunting vulnerabilities and dissecting malware behavior"
   }
-};```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Security-0f172a?style=for-the-badge&logo=hackthebox&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Bug%20Bounty-111827?style=for-the-badge&logo=bugcrowd&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Malware%20Analysis-020617?style=for-the-badge&logo=virustotal&logoColor=blue"/>
-</p>
+};
