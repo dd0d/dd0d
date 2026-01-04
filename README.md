@@ -29,3 +29,9 @@ const Retch = {
     night: "Hunting vulnerabilities and dissecting malware behavior"
   }
 };
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cyber%20Security-0f172a?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Bug%20Bounty-111827?style=for-the-badge&logo=bugcrowd&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Malware%20Analysis-020617?style=for-the-badge&logo=virustotal&logoColor=blue"/>
+</p>
