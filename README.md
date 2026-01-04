@@ -28,7 +28,7 @@ const Retch = {
     day: "Engineering functional and secure applications",
     night: "Hunting vulnerabilities and dissecting malware behavior"
   }
-};
+};```
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cyber%20Security-0f172a?style=for-the-badge&logo=hackthebox&logoColor=green"/>
