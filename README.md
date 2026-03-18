@@ -19,7 +19,7 @@ Focused on **offensive security, malware analysis, reverse engineering**, and **
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```javascript
 const Mohxyl = {
