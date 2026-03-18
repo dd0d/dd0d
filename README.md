@@ -5,10 +5,9 @@
 <div align="left">
 
 # Mohxyl  
-### Software Engineer  
+### About Mohxyl !  
 
-Programmer & Security Analyst focused on building secure software  
-and performing malware analysis & vulnerability research.
+Software Engineer & Security Analyst focused on offensive security, malware analysis, reverse engineering, and building custom security tools & backend systems.
 
 </div>
 </div>
