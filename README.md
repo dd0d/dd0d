@@ -1,12 +1,16 @@
 <table>
   <tr>
     <td width="180">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdpMjFidW81Mmhkd3hobTBoOG82cnN4N3M3YXBnbzR6emF4bmhyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V5l5ZucxUc7kNTaXWK/giphy.gif" width="160"/>
+      <img src="https://tenor.com/view/computer-cmd-all-your-memories-theyre-a-dream-gif-16360448" width="160"/>
     </td>
+    <td>
       <h1>Mohxyl</h1>
       <h3>Software Engineer</h3>
+      <p>
         Programmer & Security Analyst focused on building secure software  
         and performing malware analysis & vulnerability research.
+      </p>
+    </td>
   </tr>
 </table>
 
