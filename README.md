@@ -5,7 +5,7 @@
 <div align="left">
 
 # Mohxyl  
-### About Mohxyl !  
+### What i have /; . 
 
 Software Engineer & Security Analyst focused on offensive security, malware analysis, reverse engineering, and building custom security tools & backend systems.
 
