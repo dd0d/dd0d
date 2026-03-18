@@ -22,10 +22,12 @@ Focused on **offensive security, malware analysis, reverse engineering**, and **
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=Cyber+Security+Enthusiast;Backend+Developer;Bug+Bounty+Hunter;Secure+Software+Developer"/>
 </p>
 
----
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dd0d&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+  <img src="https://streak-stats.demolab.com?user=dd0d&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div
+
+---
+
 ## About Me
 
 ```javascript
