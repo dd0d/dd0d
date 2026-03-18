@@ -5,8 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Cyber+Security+Enthusiast;Malware+Analysis+%26+Reverse+Engineering;Bug+Bounty+Hunter;Secure+Software+Developer"/>
 </p>
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
-<div align="center">
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=dd0d">
+    <img src="https://komarev.com/ghpvc/?username=dd0d&label=Profile%20views&color=00FFFF&style=flat-square" alt="dd0d's profile views" />
+  </a>
+</p>
 
 Welcome to my personal space on the web.  
 I’m a **Programmer** and **Security Analyst** focused on building **secure desktop software**  
