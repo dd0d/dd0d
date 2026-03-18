@@ -1,18 +1,19 @@
-<table>
-  <tr>
-    <td width="180">
-      <img src="https://media1.tenor.com/m/PwtnbGEIz3gAAAAd/computer-cmd.gif" width="160"/>
-    </td>
-    <td>
-      <h1>Mohxyl</h1>
-      <h3>Software Engineer</h3>
-      <p>
-        Programmer & Security Analyst focused on building secure software  
-        and performing malware analysis & vulnerability research.
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+<img src="https://media1.tenor.com/m/PwtnbGEIz3gAAAAd/computer-cmd.gif" width="140"/>
+
+<div align="left">
+
+# Mohxyl  
+### Software Engineer  
+
+Programmer & Security Analyst focused on building secure software  
+and performing malware analysis & vulnerability research.
+
+</div>
+</div>
+</div>
 
 ---
 
