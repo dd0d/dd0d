@@ -1,7 +1,6 @@
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-<img src="https://media1.tenor.com/m/PwtnbGEIz3gAAAAd/computer-cmd.gif" width="140"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2000&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=A11I;..............;SYSTEM+BOOTING;LOADING+MODULES;READY" />
+</p>
 
 <div align="left">
 
