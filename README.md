@@ -3,14 +3,10 @@
     <td width="180">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdpMjFidW81Mmhkd3hobTBoOG82cnN4N3M3YXBnbzR6emF4bmhyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V5l5ZucxUc7kNTaXWK/giphy.gif" width="160"/>
     </td>
-    <td>
-      <h1>Retch</h1>
-      <h3>Moxhyl Software Engineer</h3>
-      <p>
+      <h1>Mohxyl</h1>
+      <h3>Software Engineer</h3>
         Programmer & Security Analyst focused on building secure software  
         and performing malware analysis & vulnerability research.
-      </p>
-    </td>
   </tr>
 </table>
 
