@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180">
-      <img src="https://tenor.com/view/computer-cmd-all-your-memories-theyre-a-dream-gif-16360448" width="160"/>
+      <img src="https://media1.tenor.com/m/PwtnbGEIz3gAAAAd/computer-cmd.gif" width="160"/>
     </td>
     <td>
       <h1>Mohxyl</h1>
