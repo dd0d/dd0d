@@ -13,7 +13,7 @@ Focused on **offensive security, malware analysis, reverse engineering**, and **
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/Rqzl32T-KBcAAAAC/anime-komi.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/Rqzl32T-KBcAAAAC/anime-komi.gif" width="1500"/>
 </p>
 
 ---
