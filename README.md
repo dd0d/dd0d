@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Cyber+Security+Enthusiast;Malware+Analysis+%26+Reverse+Engineering;Bug+Bounty+Hunter;Secure+Software+Developer"/>
 </p>
-
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
 <div align="center">
 
 Welcome to my personal space on the web.  
