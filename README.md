@@ -2,15 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=LOADING+SYSTEM;ACCESS+GRANTED;MOHXYL+ONLINE"/>
 </p>
 
-<div align="left">
+<div align="center">
 
-# Mohxyl  
-### What i have /; . 
+# Mohxyl
+### Software Engineer & Security Analyst
 
-Software Engineer & Security Analyst focused on offensive security, malware analysis, reverse engineering, and building custom security tools & backend systems.
+Focused on **offensive security, malware analysis, reverse engineering**, and **building custom security tools & backend systems**.
 
-</div>
-</div>
 </div>
 
 ---
@@ -24,7 +22,7 @@ Software Engineer & Security Analyst focused on offensive security, malware anal
 ## 🧠 About Me
 
 ```javascript
-const Retch = {
+const Mohxyl = {
   role: "Programmer & Security Analyst",
   focus: [
     "Offensive Security",
