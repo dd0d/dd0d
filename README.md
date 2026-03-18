@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=Cyber+Security+Enthusiast;Bug+Bounty+%26+Backend+Developer;Bug+Bounty+Hunter;Secure+Software+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=Cyber+Security+Enthusiast;Backend+Developer;Bug+Bounty+Hunter;Secure+Software+Developer"/>
 </p>
 
 ---
