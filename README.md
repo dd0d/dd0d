@@ -19,7 +19,7 @@ Focused on **offensive security, malware analysis, reverse engineering**, and **
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=Cyber+Security+Enthusiast;Backend+Developer;Bug+Bounty+Hunter;Secure+Software+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=6E389CFF&center=true&vCenter=true&width=550&lines=Cyber+Security+Enthusiast;Backend+Developer;Bug+Bounty+Hunter;Secure+Software+Developer"/>
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dd0d&theme=modern-lilac&hide_border=true&border_radius=20&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=1000" alt="GitHub Streak" /></a>
