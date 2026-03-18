@@ -4,7 +4,9 @@
   <a href="#"><img width="100%" height="auto" src="https://media1.tenor.com/m/f-aOll8zpNoAAAAC/anime.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm Mohxyl</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=6E389CFF&center=true&vCenter=true&width=600&lines=MOHXYL+ONLINE"/>
+</p>
 
 
 
