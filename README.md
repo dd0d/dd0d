@@ -10,7 +10,7 @@
 Focused on **offensive security, malware analysis, reverse engineering**, and **building custom security tools & backend systems**.
 
 </div>
-
+https://media1.tenor.com/m/Rqzl32T-KBcAAAAC/anime-komi.gif
 ---
 
 <p align="center">
